@@ -19,6 +19,10 @@
     color: white;
 }
 
+span {
+    padding: 10px;
+}
+
 #avatar {
     height: 300px;
 }

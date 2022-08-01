@@ -11,6 +11,11 @@
 }
 
 
+.bi-list {
+    border: 0.5px white solid;
+    border-radius: 10px;
+}
+
 
 .dg-bg-blue {
     background-color: #3a546d;

@@ -22,57 +22,17 @@
 #avatar {
     height: 300px;
 }
-.bar {
-    position: relative;
-}
-.start-bar {
-    height: 5px;
-    background-color: black;
-    width: 100px;
-    position: absolute;
-    top: 40px;
-    left: 230px;
-    border-radius: 15%;
-    
-}
-
-.end-bar {
-    height: 5px;
-    background-color: black;
-    width: 100px;
-    position: absolute;
-    top: 40px;
-    right: 230px;
-    border-radius: 15%;
-}
 
 .bi {
     font-size: 50px;
 }
 
-.white-bar {
-    position: relative;
+.fa-brands {
+   padding: 15px;
+   border: 1px white solid;
 }
 
-.start-white-bar {
-    height: 5px;
-    background-color:white;
-    width: 100px;
-    position: absolute;
-    top: 40px;
-    left: 230px;
-    border-radius: 15%;
-
-}
-
-.end-white-bar {
-    height: 5px;
-    background-color:white;
-    width: 100px;
-    position: absolute;
-    top: 40px;
-    right: 230px;
-    border-radius: 15%;
-}
-
+a {
+    color: #1abc9c;
+    text-decoration: none;
 }

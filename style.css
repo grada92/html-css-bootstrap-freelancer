@@ -49,3 +49,30 @@
 .bi {
     font-size: 50px;
 }
+
+.white-bar {
+    position: relative;
+}
+
+.start-white-bar {
+    height: 5px;
+    background-color:white;
+    width: 100px;
+    position: absolute;
+    top: 40px;
+    left: 230px;
+    border-radius: 15%;
+
+}
+
+.end-white-bar {
+    height: 5px;
+    background-color:white;
+    width: 100px;
+    position: absolute;
+    top: 40px;
+    right: 230px;
+    border-radius: 15%;
+}
+
+}

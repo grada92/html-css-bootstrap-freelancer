@@ -75,3 +75,6 @@ a {
     border: 2px solid black;
 }
 
+.text-message {
+    max-width: 100%;
+}
